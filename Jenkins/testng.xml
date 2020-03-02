@@ -4,6 +4,7 @@
   <test name="Test">
     <classes>
       <class name="JenkinSample.Jenkins.App"/>
+       <class name="JenkinSample.Jenkins.Browser"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- JenkinSuite -->
