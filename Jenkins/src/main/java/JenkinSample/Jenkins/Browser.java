@@ -34,7 +34,7 @@ public class Browser {
 	@BeforeTest
 	public void runapp() {
 		Browser br = new Browser();
-		br.browsername("FIREFOX");
+		br.browsername("chrome");
 		driver.manage().window().maximize();
 		driver.get("https://demoqa.com");
 	}
